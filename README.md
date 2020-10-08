@@ -1,3 +1,5 @@
+https://artylope.github.io/testlottie/
+
 # Personal Guide to having animated lottie animations
 
 ## To Export assets from Figma to AE
