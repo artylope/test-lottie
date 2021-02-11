@@ -24,8 +24,8 @@ To allow the exporting of animation from After Effects into a JSON file that you
 
 # Some tips
 
-##  If using expressions and want to convert expressions to key frames
-You can convert the expression to keyframes, by selecting the transform property you assigned the expression to (e.g. Position) then clic to the menu Animation > Keyframe Assistant> Convert Expression to keyframe. https://github.com/airbnb/lottie-web/issues/2265
+##  If using expressions (e.g. Mister Horse Anmiation Presets) and want to convert expressions to key frames
+You can convert the expression to keyframes, by selecting the transform property you assigned the expression to (e.g. Position) then clic to the menu Animation > Keyframe Assistant> Convert Expression to keyframe. https://github.com/airbnb/lottie-web/issues/2265. Delete the original expression after converting to keyframes.
 
 ## If "render fail" when rendering in Bodymovin
 If you have downloaded the extension from Adobe exchange uninstall it and re-install after downloading from aescripts.com. You will also need to download zxp installer. Install the .zxp file of bodymovin and then go into AE edit>preferences>general>scripting and expressions and then allow scripts to write files and access network. Bodymovin should work then. https://github.com/airbnb/lottie-web/issues/2265 
