@@ -1,4 +1,4 @@
-https://artylope.github.io/testlottie/
+https://artylope.github.io/test-lottie/
 
 # Personal Guide to having animated lottie animations
 
